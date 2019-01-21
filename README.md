@@ -1,6 +1,6 @@
 # markdown-editor
 
-> A Vue.js project
+> A real-time markdown editor built with Marked.js and Vue.
 
 <img width="1440" alt="markdown pure-vue" src="https://user-images.githubusercontent.com/41505038/51490767-84e6ca80-1d69-11e9-8ecb-ad3daa79823b.png">
 
