@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+<img width="1440" alt="markdown pure-vue" src="https://user-images.githubusercontent.com/41505038/51490767-84e6ca80-1d69-11e9-8ecb-ad3daa79823b.png">
+Mobile
+![localhost_8080_ iphone 5_se](https://user-images.githubusercontent.com/41505038/51490782-8fa15f80-1d69-11e9-9986-c83712282d89.png)
+
+
 ## Build Setup
 
 ``` bash
@@ -15,4 +20,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
